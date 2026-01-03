@@ -1,0 +1,21 @@
+﻿{
+    "project":  {
+                    "created":  "2026-01-03 14:24:53",
+                    "agents":  [
+                                   "product-owner",
+                                   "architect",
+                                   "frontend-dev",
+                                   "backend-dev",
+                                   "devops",
+                                   "tester",
+                                   "ux"
+                               ],
+                    "name":  "MeuProjeto",
+                    "workflows":  [
+                                      "complete-development",
+                                      "feature-development",
+                                      "bug-fixing",
+                                      "code-review"
+                                  ]
+                }
+}

@@ -45,7 +45,25 @@ Como Product Owner, preciso que você:
 ### Para Análise de Requisitos
 ```
 Analise os seguintes requisitos e crie user stories detalhadas:
-[Inserir requisitos aqui]
+- Sistema para auxiliar desenvolvedores a estudar programação;
+
+- Ao entrar no sistema, o usuario pode escolher um assunto para estudar;
+
+- as opções de assuntos são esses: PHP, java, javascript, python, ruby, node js, laravel, angular, react, vue, ruby on rails, spring (java), backend, frontend, git, cloud, aws, google cloud, azure, devops, docker, kubernetes, sistemas distribuídos, algoritmos, estrutura de dados, banco de dados, nosql, mongo db, .net, C Sharp, HTML, CSS, linguagem C, linux, sql, C++, typescript, flutter, kotlin, react native, engenharia de software;
+
+- Cada assunto terá subtópicos para estudar;
+
+- Ao clicar em um subtópico, abrir o conteúdo do subtópico para estudar;
+
+- os subtópicos e seu conteúdo serão gerados atraves de IA atraves de uma api de IA;
+
+- O sistema deve ser feito com o framework next do react;
+
+- Para interagir com o banco de dados usar a api routes do next;
+
+- Para interagir com o banco de dados usar o prisma orm para interagir com o neon;
+
+- Para estilização deve ser usado chackra ui v3;
 
 Foque em:
 - Identificar personas
